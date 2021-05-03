@@ -1,5 +1,8 @@
 # Airbus_ship_detection
 
+
+### Список сетей для сегментации: https://github.com/mrgloom/awesome-semantic-segmentation
+
 # План оформления записки:
   ## 1)Введение
   * актуальность задачи в рамках предметной области
