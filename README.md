@@ -2,7 +2,7 @@
 
 
 ### Список сетей для сегментации: https://github.com/mrgloom/awesome-semantic-segmentation
-
+  * Реализации сетей keras https://github.com/aurora95/Keras-FCN/blob/master/models.py
 # План оформления записки:
   ## 1)Введение
   * актуальность задачи в рамках предметной области
